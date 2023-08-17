@@ -1,4 +1,4 @@
-# GAME---tic_tac_toe (2020)
+# GAME---tic_tac_toe (2021)
 Extension of the game "tic tac toe", with custom board size and undelimited 'undo' moves
 
 Settings:
